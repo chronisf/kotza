@@ -1,0 +1,2 @@
+If you wish to apply dynamic analysis tools to the library
+run 'make' in this folder (it will create the necessary files).
